@@ -49,6 +49,13 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 <img src="images/8.png" width="900" height="600">
 
 ### No. 9
+1. Filter : ftp-data
+2. Mencari paket data yang berisi secret.zip
+3. Klik kanan, lalu follow TCP Stream
+4. Show and save data as Raw
+5. Save as secret.zip
+<img src="images/.png" width="900" height="600">
+
 ### No. 10
 ### No. 11
 ### No. 12
