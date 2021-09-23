@@ -61,7 +61,7 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 2. Filter : ftp-data.command contains bukanapaapa.txt
 3. Akan terlihat password : d1b1langbukanapaapajugagapercaya
 <img src="images/10-1.png" width="900" height="600">
-4. Buka file secret.zip sesuai password di atas
+4. Buka file secret.zip sesuai password di atas, maka akan tampil seperti ini
 <img src="images/10-2.png" width="900" height="600">
 
 ### No. 11
@@ -69,3 +69,6 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 ### No. 13
 ### No. 14
 ### No. 15
+
+## Kendala yang dialami
+1. Jaringan internet yang lambat
