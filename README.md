@@ -43,7 +43,11 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 4. Save as Real.zip
 5. Buka file zip yang sudah didownload, maka akan tampil seperti ini
 <img src="images/7.png" width="900" height="600">
+
 ### No. 8
+1. Filter : ftp.request.command contains RETR
+<img src="images/8.png" width="900" height="600">
+
 ### No. 9
 ### No. 10
 ### No. 11
