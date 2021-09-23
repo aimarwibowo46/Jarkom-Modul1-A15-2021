@@ -21,6 +21,9 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 <img src="images/3-2.png" width="900" height="600">
 
 ### No. 4
+1. Filter : mysql.query matches select
+<img src="images/4.png" width="900" height="600">
+
 ### No. 5
 ### No. 6
 ### No. 7
