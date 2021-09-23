@@ -9,9 +9,17 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 1. Filter : http.host contains ichimarumaru.tech
 2. Klik kanan pada salah satu paket, lalu pilih follow TCP Stream
 3. Akan terlihat web server yang digunakan, yaitu nginx/1.18.0 (Ubuntu)
-<img src="" width="" height="">
+<img src="images/1.png" width="900" height="600">
+
 ### No. 2
 ### No. 3
+1. Filter : http.authbasic
+2. Menuju Hypertext Transfer Protocol, lalu ke Authorization, ada credentials disana.
+3. Username : kuncimenujulautan, Password : tQKEJFbgNGC1NCZlWAOjhyCOm6o3xEbPkJhTciZN
+<img src="images/1.png" width="900" height="600">
+4. Masuk ke website basic.ichimarumaru.tech sesuai dengan username dan password di atas, maka akan tampil halaman seperti ini
+<img src="images/1.png" width="900" height="600">
+
 ### No. 4
 ### No. 5
 ### No. 6
