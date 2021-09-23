@@ -32,6 +32,9 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 <img src="images/5-2.png" width="900" height="600">
 
 ### No. 6
+1. Filter : ftp.request.command matches user or ftp.request.command matches pass
+2. Username : secretuser, Password : aku.pengen.pw.aja
+<img src="images/6.png" width="900" height="600">
 ### No. 7
 ### No. 8
 ### No. 9
