@@ -35,7 +35,14 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 1. Filter : ftp.request.command matches user or ftp.request.command matches pass
 2. Username : secretuser, Password : aku.pengen.pw.aja
 <img src="images/6.png" width="900" height="600">
+
 ### No. 7
+1. Filter : frame contains Real.pdf
+2. Klik kanan pada salah satu paket, lalu pilih follow TCP Stream
+3. Show and save data as Raw
+4. Save as Real.zip
+5. Buka file zip yang sudah didownload, maka akan tampil seperti ini
+<img src="images/7.png" width="900" height="600">
 ### No. 8
 ### No. 9
 ### No. 10
