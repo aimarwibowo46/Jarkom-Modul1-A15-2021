@@ -27,7 +27,10 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 ### No. 5
 1. Filter : mysql.query matches insert
 2. Username : akakanomi, Password : pemisah4lautan
-<img src="images/4.png" width="900" height="600">
+<img src="images/5-1.png" width="900" height="600">
+3. Login ke portal.ichimarumaru.tech, maka akan tampil halaman seperti ini
+<img src="images/5-2.png" width="900" height="600">
+
 ### No. 6
 ### No. 7
 ### No. 8
