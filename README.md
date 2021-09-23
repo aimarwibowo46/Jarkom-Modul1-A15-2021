@@ -54,9 +54,16 @@ Laporan Resmi 1 Modul 1 Jaringan Komputer
 3. Klik kanan, lalu follow TCP Stream
 4. Show and save data as Raw
 5. Save as secret.zip
-<img src="images/.png" width="900" height="600">
+<img src="images/9.png" width="900" height="600">
 
 ### No. 10
+1. Filter : ftp-data.command contains history
+2. Filter : ftp-data.command contains bukanapaapa.txt
+3. Akan terlihat password : d1b1langbukanapaapajugagapercaya
+<img src="images/10-1.png" width="900" height="600">
+4. Buka file secret.zip sesuai password di atas
+<img src="images/10-2.png" width="900" height="600">
+
 ### No. 11
 ### No. 12
 ### No. 13
